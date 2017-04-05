@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Proj1_CT\Proj1_CT\bin\Debug\Proj1_CT.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Proj1_CT\Proj1_CT\bin\Debug\Proj1_CT.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Proj1_CT\Proj1_CT\bin\Debug\Proj1_CT.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Proj1_CT\Proj1_CT\obj\Debug\Proj1_CT.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Proj1_CT\Proj1_CT\obj\Debug\Proj1_CT.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Proj1_CT\Proj1_CT\obj\Debug\Proj1_CT.csprojResolveAssemblyReference.cache
